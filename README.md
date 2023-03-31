@@ -1,7 +1,7 @@
 # Olá, Juliano aqui ✌️🤓
 
 ### Um humilde apaixonado por tecnologia da informação, iniciante nesse novo/velho mundo da programação e desenvolvimento na web. Minha intenção é aprender cada vez mais sobre linguagens de marcação e linguagens de programação. Espero um dia poder trabalhar com essas tecnologias !!
-</br>
+<br>
 
 <picture>
 <source 
@@ -13,10 +13,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vatrinux&show_icons=true" />
 </picture>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=vatrinux&show_icons=true&theme=transparent">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatrinux&show_icons=true&theme=transparent&layout=compact"> -->
-</br>
-
 ### Linguagens:
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,10 +22,10 @@
 </div>
 
 ### Contato:
-<div> 
-<a href="https://t.me/julianovatre" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/vatrinux#9556" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</br>
+<div>
+<a href="https://github.com/vatrinux" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://t.me/julianovatre" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.gg/vatrinux#9556" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <!--
 Adicionar contagem de privados: &count_private=true)
