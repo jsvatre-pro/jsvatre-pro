@@ -1,6 +1,6 @@
-# Olá, Juliano aqui ✌️🤓
+## Olá, Juliano aqui ✌️🤓
 
-### Um humilde apaixonado por tecnologia da informação, iniciante nesse novo/velho mundo da programação e desenvolvimento na web. Minha intenção é aprender cada vez mais sobre linguagens de marcação e linguagens de programação. Espero um dia poder trabalhar com essas tecnologias !!
+##### Um humilde apaixonado por tecnologia da informação, iniciante nesse novo/velho mundo da programação e desenvolvimento na web. Minha intenção é aprender cada vez mais sobre linguagens de marcação e linguagens de programação. Espero um dia poder trabalhar com essas tecnologias !!
 <br>
 
 <picture>
@@ -26,6 +26,7 @@
 <a href="https://vatrinux.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://t.me/julianovatre" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.com/user/vatrinux#9556" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
 <!--
 Adicionar contagem de privados: &count_private=true)
