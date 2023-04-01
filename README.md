@@ -1,6 +1,6 @@
 ## Olá, Juliano aqui ✌️🤓
 
-##### Um humilde apaixonado por tecnologia da informação, iniciante nesse novo/velho mundo da programação e desenvolvimento na web. Minha intenção é aprender cada vez mais sobre linguagens de marcação e linguagens de programação. Espero um dia poder trabalhar com essas tecnologias !!
+#### Um humilde apaixonado por tecnologia da informação, iniciante nesse novo/velho mundo da programação e desenvolvimento na web. Minha intenção é aprender cada vez mais sobre linguagens de marcação e linguagens de programação. Espero um dia poder trabalhar com essas tecnologias !!
 <br>
 
 <picture>
